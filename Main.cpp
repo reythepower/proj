@@ -12,7 +12,7 @@ void CoordPosition(int x, int y)
 int s = 15;
 void InputString(string &str)
 {
-	int character;
+	int character;// hello
 	int k = -1;
 	do
 	{
